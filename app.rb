@@ -7,7 +7,7 @@ class App < Sinatra::Base
   end
 
   get '/info' do
-    "Sinatra is cool!"
+    ""
   end
 
 end
